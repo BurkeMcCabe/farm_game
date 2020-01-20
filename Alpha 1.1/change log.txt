@@ -1,0 +1,2 @@
+-added scroll wheel
+-added camera locking to prevent going past the game map
